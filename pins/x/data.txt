@@ -1,0 +1,5 @@
+path: data.rds
+description: Exchange rates of BYN
+type: default
+filenames:
+  data.rds: data.rds

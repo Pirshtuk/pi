@@ -1,0 +1,4 @@
+- path: x
+  name: x
+  description: Exchange rates of BYN
+  type: default
